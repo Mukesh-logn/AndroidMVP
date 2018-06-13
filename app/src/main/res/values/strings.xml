@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">MVP Practice</string>
+    <string name="all_eyes_screen">All eyes this way</string>
+    <string name="movie_loading">Please wait</string>
+    <string name="popularity">Popularity :</string>
+    <string name="rating_overall">Rating :</string>
+    <string name="release_date">Release Date :</string>
+    <string name="adult">Adult :</string>
+    <string name="vote_count">Vote Count :</string>
+    <string name="movie">Movie Name</string>
+    <string name="Watch">Trailer</string>
+    <string name="opss_message">Opps ! something went wrong.Try again.</string>
+    <string name="tap_to_retry">Tap to reload.</string>
+    <string name="book_your_show">Book your show</string>
+    <string name="top_rated">Top Rated Movies</string>
+    <string name="Now_playing">In Theater Movies</string>
+    <string name="coming_soon">Upcoming Movies</string>
+</resources>
